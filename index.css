@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+  }
+  .polnyi_pisos{
+      display: flex;
+  }
+  .pisos,.pisos1{
+      display: block;
+  }
+  .pisos,img{
+     width: 50%;
+  }
+  .pisos,h1{
+  text-align: center;
+  margin-right: 100px;
+  }
+  .pisos1{
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: auto;
+      color: chocolate;
+  }

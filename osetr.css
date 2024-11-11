@@ -1,0 +1,20 @@
+body{
+    background-image: url(asscat.jpg);
+    text-align: center;
+}
+.posos,h1{
+    color: red;
+    margin-top: auto;
+}
+.polnyi_posos{
+    display: inline-block;
+}
+.posos{
+    margin-top: 200px;
+    display: block;
+    justify-content: center
+}
+.posos1{
+    display: block;
+    color: aliceblue;
+}
